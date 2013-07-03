@@ -17,7 +17,7 @@ public class SimpleServlet extends HttpServlet {
      */
     @Override
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-        response.getWriter().print("Hello Github");
+        response.getWriter().print("Hello Github modified");
     }
 
 }
