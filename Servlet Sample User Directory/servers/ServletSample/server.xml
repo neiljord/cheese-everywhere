@@ -10,5 +10,4 @@
 
     <applicationMonitor updateTrigger="mbean"/>
 
-    <webApplication contextRoot="ServletApp" id="Basic Helloworld Servlet" location="Basic Helloworld Servlet.war" name="Basic Helloworld Servlet"/>
 </server>
