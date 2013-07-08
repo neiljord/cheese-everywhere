@@ -7,8 +7,9 @@
     </featureManager>
     
     <httpEndpoint httpPort="9122" id="defaultHttpEndpoint"/>
-
-	<application contextRoot="ServletApp" id="Sample" location="Basic Helloworld Servlet.war" name="Basic Helloworld Servlet" type="war"/>
-    <applicationMonitor updateTrigger="mbean"/>
     
+
+    <applicationMonitor updateTrigger="mbean"/>
+
+    <webApplication contextRoot="ServletApp" id="Basic Helloworld Servlet" location="Basic Helloworld Servlet.war" name="Basic Helloworld Servlet"/>
 </server>
