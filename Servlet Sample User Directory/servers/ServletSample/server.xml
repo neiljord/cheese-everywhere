@@ -8,6 +8,7 @@
     
     <httpEndpoint httpPort="9122" id="defaultHttpEndpoint"/>
 
+	<application contextRoot="ServletApp" id="Sample" location="Basic Helloworld Servlet.war" name="Basic Helloworld Servlet" type="war"/>
     <applicationMonitor updateTrigger="mbean"/>
-
+    
 </server>
