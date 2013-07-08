@@ -10,5 +10,4 @@
 
     <applicationMonitor updateTrigger="mbean"/>
 
-    <webApplication id="ServletApp" location="ServletApp.war" name="ServletApp"/>
 </server>
