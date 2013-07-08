@@ -7,7 +7,6 @@
     </featureManager>
     
     <httpEndpoint httpPort="9122" id="defaultHttpEndpoint"/>
-    
 
     <applicationMonitor updateTrigger="mbean"/>
 
