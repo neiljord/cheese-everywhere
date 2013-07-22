@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archive>
+    <dir sourceOnDisk="C:\temp\github-workspace\27july-webapp\mywebapp\target\m2e-wtp\web-resources" targetInArchive="/"/>
+    <dir sourceOnDisk="C:\temp\github-workspace\27july-webapp\mywebapp\src\main\webapp" targetInArchive="/"/>
+    <dir sourceOnDisk="C:\temp\github-workspace\27july-webapp\mywebapp\target\classes" targetInArchive="/WEB-INF/classes"/>
+    <dir sourceOnDisk="C:\temp\github-workspace\27july-webapp\mywebapp\target\test-classes" targetInArchive="/WEB-INF/classes"/>
+</archive>

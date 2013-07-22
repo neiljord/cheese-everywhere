@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archive>
+    <dir sourceOnDisk="C:\temp\maven-repo-work\new-hibernate-osi\new-hibernate-osi-app\target\classes" targetInArchive="/WEB-INF/classes"/>
+    <dir sourceOnDisk="C:\temp\maven-repo-work\new-hibernate-osi\new-hibernate-osi-app\target\classes" targetInArchive="/"/>
+</archive>

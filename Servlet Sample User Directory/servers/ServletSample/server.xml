@@ -4,6 +4,7 @@
     <featureManager>
         <feature>servlet-3.0</feature>
         <feature>localConnector-1.0</feature>
+        <feature>jsp-2.2</feature>
     </featureManager>
     
     <httpEndpoint httpPort="9122" id="defaultHttpEndpoint"/>
@@ -12,4 +13,12 @@
     <applicationMonitor updateTrigger="mbean"/>
 
     <webApplication contextRoot="ServletApp" id="Basic Helloworld Servlet" location="Basic Helloworld Servlet.war" name="Basic Helloworld Servlet"/>
+
+    <webApplication id="new-hibernate-osi-app" location="new-hibernate-osi-app.war" name="new-hibernate-osi-app"/>
+
+    <webApplication id="new2-hibernate-osi-app" location="new2-hibernate-osi-app.war" name="new2-hibernate-osi-app"/>
+
+    <webApplication id="new3-hibernate-osi-app" location="new3-hibernate-osi-app.war" name="new3-hibernate-osi-app"/>
+
+    <webApplication id="new-hibernate-osi-m2ewtp" location="new-hibernate-osi-m2ewtp.war" name="new-hibernate-osi-m2ewtp"/>
 </server>

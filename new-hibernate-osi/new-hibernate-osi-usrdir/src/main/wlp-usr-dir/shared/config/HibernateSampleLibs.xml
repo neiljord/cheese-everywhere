@@ -1,0 +1,7 @@
+<server description="Hibernate sample shared library configuration">
+
+    <library id="HibernateSampleLibs">
+        <fileset dir="${shared.resource.dir}/HibernateSampleLibs" includes="*.jar" scanInterval="5s" />
+    </library>
+
+</server>
